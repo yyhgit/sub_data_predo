@@ -47,7 +47,6 @@ lib_time time
 );
 
 
-
 create table Score
 (
 stu_id char(8) primary key,
@@ -61,7 +60,6 @@ create table Subsidy
 stu_id char(8) primary key,
 sub_num int
 );
-
 
 create  table department
 (
